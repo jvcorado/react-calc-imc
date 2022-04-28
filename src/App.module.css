@@ -154,13 +154,12 @@ header .headerContainer{
     @media (max-width:779px) {
         .container{
             padding: 25px;
-            background-color: rgb(255, 255, 255);
+            background-color: rgb(226, 17, 17);
         }
         .container .rightSide .grid{
             flex: 1;
             display: grid;
-            grid-template-columns:  1fr;
-            gap: 20px;
+            grid-template-columns: 1fr;
             padding: 20px;
         }
         .container .rightSide .rightArrow{
