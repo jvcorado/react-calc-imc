@@ -164,6 +164,7 @@ header .headerContainer{
         .container .rightSide .rightArrow{
             margin-left: 130px;
             margin-top: 265px;
+            margin-bottom: 20px;
         }
     }
 }
