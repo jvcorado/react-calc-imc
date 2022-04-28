@@ -155,7 +155,7 @@ header .headerContainer{
         .container{
             width: 100vw;
             padding: 25px;
-            background-color: rgb(226, 17, 17);
+            background-color: rgb(255, 255, 255);
         }
         .container .rightSide .grid{
             flex: 1;
