@@ -1,5 +1,7 @@
 # Calculadora de IMC
 
+Link de acesso: https://calculadorareactimc.netlify.app/
+
 Projeto em React + Typescript
 fazendo uma calculadora de IMC.
 
