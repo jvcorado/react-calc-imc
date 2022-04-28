@@ -129,7 +129,6 @@ header .headerContainer{
 }
 
 @media (max-width:780px) {
-
     .container{
         flex-direction: column;
         padding: 20px;
@@ -151,7 +150,7 @@ header .headerContainer{
         margin-top: 280px;
     }
 
-    @media (max-width:779px) {
+    @media (max-width:500px) {
         .container{
             width: 100vw;
             padding: 25px;
