@@ -161,5 +161,9 @@ header .headerContainer{
             gap: 20px;
             padding: 20px;
         }
+        .container .rightSide .rightArrow{
+            margin-left: 130px;
+            margin-top: 265px;
+        }
     }
 }
