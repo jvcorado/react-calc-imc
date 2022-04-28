@@ -9,6 +9,7 @@
     padding: 20px;
     transition: all 0.3s;
     box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.219);
+    background-color: white;
 }
 .main:hover{
     transform: scale(1.1);
