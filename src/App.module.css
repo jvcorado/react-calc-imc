@@ -153,6 +153,7 @@ header .headerContainer{
 
     @media (max-width:779px) {
         .container{
+            width: 100vw;
             padding: 25px;
             background-color: rgb(226, 17, 17);
         }
