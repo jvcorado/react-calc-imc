@@ -153,9 +153,8 @@ header .headerContainer{
 
     @media (max-width:779px) {
         .container{
-            padding: 30px;
-            background-color: rgb(255, 255, 255);
-            padding-bottom: 50px;
+            padding: 25px;
+            background-color: rgb(204, 30, 30);
         }
         .container .rightSide .grid{
             flex: 1;
@@ -165,9 +164,8 @@ header .headerContainer{
             padding: 20px;
         }
         .container .rightSide .rightArrow{
-            margin-left: 130px;
-            margin-top: 265px;
-            margin-bottom: 70px;
+            margin-left: -15px;
+            margin-top: -10px;
         }
     }
 }
